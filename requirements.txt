@@ -1,0 +1,4 @@
+streamlit
+pandas
+reportlab
+openpyxl   # needed by pandas to write Excel files
